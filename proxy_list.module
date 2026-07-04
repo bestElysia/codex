@@ -1,7 +1,3 @@
-#!url=https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module
-#!name=proxy_list
-#!homepage=https://github.com/GMOogway/shadowrocket-rules
-#!desc=Rules:26848 Created:01-10 06:44 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,sapphicpornonly.com,PROXY
 DOMAIN-SUFFIX,yhdm.one,PROXY
