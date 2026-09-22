@@ -3,6 +3,7 @@
 #!desc=Rules:112336 Created:07-04 07:34 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,uupei.com,DIRECT
+DOMAIN-SUFFIX,rmonitor.qq.com,DIRECT
 DOMAIN-SUFFIX,vipcaocao.com,DIRECT
 DOMAIN-SUFFIX,nnhxwygs.com,DIRECT
 DOMAIN-SUFFIX,jilvfaka.com,DIRECT
