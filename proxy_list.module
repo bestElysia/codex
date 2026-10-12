@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,onapp.com,PROXY
 DOMAIN-SUFFIX,fb.me,PROXY
 DOMAIN,firebaseappcheck.googleapis.com,PROXY
 DOMAIN-SUFFIX,cargigileads.com,PROXY
-DOMAIN,time-d-wwv.nist.gov,PROXY
+DOMAIN-SUFFIX,time-d-wwv.nist.gov,PROXY
 DOMAIN-SUFFIX,141-hk.com,PROXY
 DOMAIN-SUFFIX,chyoa.com,PROXY
 DOMAIN-SUFFIX,0rz.tw,PROXY
